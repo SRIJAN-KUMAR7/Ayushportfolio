@@ -5,9 +5,11 @@ import Navbar from './components/Navbar';
 import Hero from './components/Herosection';
 import Skills from './components/Skills';
 import Education from './components/Education';
-import Experien
-
-
+import ExperienceCard from './components/Cards/ExperienceCard';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
+import Projects from './components/Projects';
+import Experience from './components/Experience'; 
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -29,8 +31,15 @@ function App() {
          <Hero/>
        <Wrapper>  
         <Skills/>
+        <Experience/>
+       <Projects/>
+        {/* <Experience/> */}
        </Wrapper>
+       
        <Education/>
+      <Footer/>
+       
+    
       </Body>
       
     </ThemeProvider>
