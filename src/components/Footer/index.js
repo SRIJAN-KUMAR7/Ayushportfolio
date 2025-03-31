@@ -121,7 +121,6 @@ function Footer() {
               }} 
             />
           </a>
-          @NIT JAMSHEDPUR
           <div>&copy;All rights reserved.</div>
         </Copyright>
 

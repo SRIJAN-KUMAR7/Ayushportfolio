@@ -6,7 +6,7 @@ import Hero from './components/Herosection';
 import Skills from './components/Skills';
 import Education from './components/Education';
 import ExperienceCard from './components/Cards/ExperienceCard';
-import Contact from './components/Contact';
+
 import Footer from './components/Footer';
 import Projects from './components/Projects';
 import Experience from './components/Experience'; 
@@ -33,7 +33,6 @@ function App() {
         <Skills/>
         <Experience/>
        <Projects/>
-        {/* <Experience/> */}
        </Wrapper>
        
        <Education/>
