@@ -190,7 +190,7 @@ export const Bio = {
       Title: "Go-To-Market Strategy",
       date: "2023",
       Description: "Designed market entry roadmap through competitor benchmarking and influencer collaborations for 10+ brands.",
-      image:  "https://www.wordstream.com/wp-content/uploads/2023/04/go-to-market-strategy-components-wordstream.jpg",
+      image:  "https://i.ibb.co/mCHMvbZL/p4.png",
       tags: ["Market Research", "Competitor Analysis", "Influencer Marketing"],
       category: "Strategy",
       github: "#",
